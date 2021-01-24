@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="adb16bb6-fa38-4dd9-9bd1-07fde2343885" name="Default Changelist" comment="refactoring directory">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="0d5125d8-0719-49f5-b4b6-a3c3c0fde447" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="battle-test" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="algorithm-py" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:/battle-test/algorithm-py.git" />
+        <option value="git@github.com:/battle-test/algorithm-python.git" />
+        <option value="git@github.com:/battle-test/basic-algorithm.git" />
+        <option value="https://github.com/battle-test/algorithm.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nKF3A45iRWg66yOwzbhrbz3oDN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/TensorFlow-2.3.1-YOLOv4-CSGO-aimbot" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Work-PC\PycharmProjects\algorithm\battleground" />
+      <recent name="C:\Users\Work-PC\PycharmProjects\algorithm\best_pratice" />
+      <recent name="C:\Users\Work-PC\PycharmProjects\algorithm\best_pratice\algorithm" />
+      <recent name="C:\Users\Work-PC\PycharmProjects\algorithm\example\list" />
+      <recent name="C:\Users\Work-PC\PycharmProjects\algorithm\example\functional" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.binary_search">
+    <configuration name="binary_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Yandex" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/best_pratice/algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/best_pratice/algorithm/binary_search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eratosfen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Yandex" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/best_pratice/algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/best_pratice/algorithm/eratosfen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="expiremence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Yandex" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/best_pratice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/best_pratice/expiremence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Yandex" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/best_pratice/algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/best_pratice/algorithm/generate_numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_permutations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Yandex" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/best_pratice/algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/best_pratice/algorithm/generate_permutations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.binary_search" />
+        <item itemvalue="Python.expiremence" />
+        <item itemvalue="Python.eratosfen" />
+        <item itemvalue="Python.generate_permutations" />
+        <item itemvalue="Python.generate_numbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adb16bb6-fa38-4dd9-9bd1-07fde2343885" name="Default Changelist" comment="" />
+      <created>1611130673448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611130673448</updated>
+      <workItem from="1611130692144" duration="752000" />
+      <workItem from="1611155199924" duration="29549000" />
+      <workItem from="1611280431144" duration="2661000" />
+      <workItem from="1611334304026" duration="36908000" />
+      <workItem from="1611492176466" duration="9457000" />
+    </task>
+    <task id="LOCAL-00001" summary="day of practice algorithms">
+      <created>1611334505186</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611334505186</updated>
+    </task>
+    <task id="LOCAL-00002" summary="day of practice algorithms">
+      <created>1611334585490</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611334585490</updated>
+    </task>
+    <task id="LOCAL-00003" summary="day of practice algorithms">
+      <created>1611516183036</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611516183036</updated>
+    </task>
+    <task id="LOCAL-00004" summary="day of practice algorithms">
+      <created>1611516891780</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611516891780</updated>
+    </task>
+    <task id="LOCAL-00005" summary="refactoring directory">
+      <created>1611517122358</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611517122358</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactoring directory">
+      <created>1611517198586</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611517198586</updated>
+    </task>
+    <task id="LOCAL-00007" summary="refactoring directory">
+      <created>1611517589246</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611517589246</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/archive" />
+      <path value="$PROJECT_DIR$/coursera" />
+    </ignored-roots>
+    <MESSAGE value="day of practice algorithms" />
+    <MESSAGE value="refactoring directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring directory" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="669" y="160" key="#Unittests_in_yandex_contest" timestamp="1611517619141">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="669" y="160" key="#Unittests_in_yandex_contest/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@0.40.1920.1040" timestamp="1611517619141" />
+    <state x="763" y="349" key="#Web_Browsers" timestamp="1611517379645">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="763" y="349" key="#Web_Browsers/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@0.40.1920.1040" timestamp="1611517379645" />
+    <state x="-856" y="389" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611281186924">
+      <screen x="-1280" y="94" width="1280" height="984" />
+    </state>
+    <state x="-856" y="389" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@-1280.94.1280.984" timestamp="1611281186924" />
+    <state x="555" y="293" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611334424297">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="555" y="293" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.1920.1040/-1280.54.1280.1024/1920.0.1920.1080@0.40.1920.1040" timestamp="1611334424297" />
+    <state x="-910" y="333" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@-1280.94.1280.984" timestamp="1611178094049" />
+    <state width="434" height="466" key="DebuggerActiveHint" timestamp="1611421429556">
+      <screen x="-1280" y="94" width="1280" height="984" />
+    </state>
+    <state width="434" height="466" key="DebuggerActiveHint/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@-1280.94.1280.984" timestamp="1611421429556" />
+    <state x="630" y="300" key="FileChooserDialogImpl" timestamp="1611517871889">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="630" y="300" key="FileChooserDialogImpl/0.40.1920.1040/-1280.54.1280.1024/1920.0.1920.1080@0.40.1920.1040" timestamp="1611335326745" />
+    <state x="-860" y="340" key="FileChooserDialogImpl/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@-1280.94.1280.984" timestamp="1611517211075" />
+    <state x="630" y="300" key="FileChooserDialogImpl/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@0.40.1920.1040" timestamp="1611517871889" />
+    <state x="630" y="300" key="FileChooserDialogImpl/0.40.1920.1040/-1280.94.1280.984@0.40.1920.1040" timestamp="1611300769690" />
+    <state x="784" y="479" key="Github.CreateGistDialog" timestamp="1611517864752">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="784" y="479" key="Github.CreateGistDialog/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@0.40.1920.1040" timestamp="1611517864752" />
+    <state x="740" y="426" key="Github.CreatePullRequestDialog" timestamp="1611517286523">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="740" y="426" key="Github.CreatePullRequestDialog/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@0.40.1920.1040" timestamp="1611517286523" />
+    <state x="777" y="451" width="437" height="205" key="Github.ShareDialog" timestamp="1611517886048">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="-762" y="483" width="426" height="205" key="Github.ShareDialog/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@-1280.94.1280.984" timestamp="1611516723689" />
+    <state x="777" y="451" width="437" height="205" key="Github.ShareDialog/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@0.40.1920.1040" timestamp="1611517886048" />
+    <state width="938" height="288" key="GridCell.Tab.0.bottom" timestamp="1611517853566">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="270" key="GridCell.Tab.0.bottom/0.40.1920.1040/-1280.54.1280.1024/1920.0.1920.1080@-1280.54.1280.1024" timestamp="1611402949660" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.40.1920.1040/-1280.54.1280.1024/1920.0.1920.1080@0.40.1920.1040" timestamp="1611357788338" />
+    <state width="1237" height="270" key="GridCell.Tab.0.bottom/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@-1280.94.1280.984" timestamp="1611516284871" />
+    <state width="938" height="288" key="GridCell.Tab.0.bottom/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@0.40.1920.1040" timestamp="1611517853566" />
+    <state width="938" height="288" key="GridCell.Tab.0.center" timestamp="1611517853566">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="270" key="GridCell.Tab.0.center/0.40.1920.1040/-1280.54.1280.1024/1920.0.1920.1080@-1280.54.1280.1024" timestamp="1611402949660" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.40.1920.1040/-1280.54.1280.1024/1920.0.1920.1080@0.40.1920.1040" timestamp="1611357788338" />
+    <state width="1237" height="270" key="GridCell.Tab.0.center/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@-1280.94.1280.984" timestamp="1611516284871" />
+    <state width="938" height="288" key="GridCell.Tab.0.center/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@0.40.1920.1040" timestamp="1611517853566" />
+    <state width="938" height="288" key="GridCell.Tab.0.left" timestamp="1611517853565">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="270" key="GridCell.Tab.0.left/0.40.1920.1040/-1280.54.1280.1024/1920.0.1920.1080@-1280.54.1280.1024" timestamp="1611402949660" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.40.1920.1040/-1280.54.1280.1024/1920.0.1920.1080@0.40.1920.1040" timestamp="1611357788338" />
+    <state width="1237" height="270" key="GridCell.Tab.0.left/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@-1280.94.1280.984" timestamp="1611516284871" />
+    <state width="938" height="288" key="GridCell.Tab.0.left/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@0.40.1920.1040" timestamp="1611517853565" />
+    <state width="938" height="288" key="GridCell.Tab.0.right" timestamp="1611517853566">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="270" key="GridCell.Tab.0.right/0.40.1920.1040/-1280.54.1280.1024/1920.0.1920.1080@-1280.54.1280.1024" timestamp="1611402949660" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.40.1920.1040/-1280.54.1280.1024/1920.0.1920.1080@0.40.1920.1040" timestamp="1611357788338" />
+    <state width="1237" height="270" key="GridCell.Tab.0.right/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@-1280.94.1280.984" timestamp="1611516284871" />
+    <state width="938" height="288" key="GridCell.Tab.0.right/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@0.40.1920.1040" timestamp="1611517853566" />
+    <state width="1237" height="331" key="GridCell.Tab.1.bottom" timestamp="1611516123467">
+      <screen x="-1280" y="94" width="1280" height="984" />
+    </state>
+    <state width="1237" height="348" key="GridCell.Tab.1.bottom/0.40.1920.1040/-1280.54.1280.1024/1920.0.1920.1080@-1280.54.1280.1024" timestamp="1611358237568" />
+    <state width="1237" height="331" key="GridCell.Tab.1.bottom/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@-1280.94.1280.984" timestamp="1611516123467" />
+    <state width="1237" height="331" key="GridCell.Tab.1.center" timestamp="1611516123467">
+      <screen x="-1280" y="94" width="1280" height="984" />
+    </state>
+    <state width="1237" height="348" key="GridCell.Tab.1.center/0.40.1920.1040/-1280.54.1280.1024/1920.0.1920.1080@-1280.54.1280.1024" timestamp="1611358237568" />
+    <state width="1237" height="331" key="GridCell.Tab.1.center/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@-1280.94.1280.984" timestamp="1611516123467" />
+    <state width="1237" height="331" key="GridCell.Tab.1.left" timestamp="1611516123467">
+      <screen x="-1280" y="94" width="1280" height="984" />
+    </state>
+    <state width="1237" height="348" key="GridCell.Tab.1.left/0.40.1920.1040/-1280.54.1280.1024/1920.0.1920.1080@-1280.54.1280.1024" timestamp="1611358237568" />
+    <state width="1237" height="331" key="GridCell.Tab.1.left/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@-1280.94.1280.984" timestamp="1611516123467" />
+    <state width="1237" height="331" key="GridCell.Tab.1.right" timestamp="1611516123467">
+      <screen x="-1280" y="94" width="1280" height="984" />
+    </state>
+    <state width="1237" height="348" key="GridCell.Tab.1.right/0.40.1920.1040/-1280.54.1280.1024/1920.0.1920.1080@-1280.54.1280.1024" timestamp="1611358237568" />
+    <state width="1237" height="331" key="GridCell.Tab.1.right/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@-1280.94.1280.984" timestamp="1611516123467" />
+    <state x="234" y="185" key="SettingsEditor" timestamp="1611517903534">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="234" y="185" key="SettingsEditor/0.40.1920.1040/-1280.54.1280.1024/1920.0.1920.1080@0.40.1920.1040" timestamp="1611336087081" />
+    <state x="-1124" y="231" key="SettingsEditor/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@-1280.94.1280.984" timestamp="1611411240972" />
+    <state x="234" y="185" key="SettingsEditor/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@0.40.1920.1040" timestamp="1611517903534" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1611409894721">
+      <screen x="-1280" y="94" width="1280" height="984" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@-1280.94.1280.984" timestamp="1611409894721" />
+    <state x="552" y="292" key="Vcs.Push.Dialog.v2" timestamp="1611517730914">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="552" y="292" key="Vcs.Push.Dialog.v2/0.40.1920.1040/-1280.54.1280.1024/1920.0.1920.1080@0.40.1920.1040" timestamp="1611335299856" />
+    <state x="552" y="292" key="Vcs.Push.Dialog.v2/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@0.40.1920.1040" timestamp="1611517730914" />
+    <state x="769" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611336112286">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="769" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.1920.1040/-1280.54.1280.1024/1920.0.1920.1080@0.40.1920.1040" timestamp="1611336112286" />
+    <state x="740" y="421" key="git4idea.rebase.GitRebaseDialog" timestamp="1611517343741">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="740" y="421" key="git4idea.rebase.GitRebaseDialog/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@0.40.1920.1040" timestamp="1611517343741" />
+    <state x="761" y="466" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1611335290570">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="761" y="466" key="git4idea.remote.GitConfigureRemotesDialog/0.40.1920.1040/-1280.54.1280.1024/1920.0.1920.1080@0.40.1920.1040" timestamp="1611335290570" />
+    <state x="721" y="454" key="git4idea.ui.GitResetDialog" timestamp="1611517354476">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="721" y="454" key="git4idea.ui.GitResetDialog/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@0.40.1920.1040" timestamp="1611517354476" />
+    <state x="720" y="349" key="git4idea.ui.GitUnstashDialog" timestamp="1611517510443">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="720" y="349" key="git4idea.ui.GitUnstashDialog/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@0.40.1920.1040" timestamp="1611517510443" />
+    <state x="-977" y="305" width="672" height="678" key="search.everywhere.popup" timestamp="1611444178558">
+      <screen x="-1280" y="94" width="1280" height="984" />
+    </state>
+    <state x="-977" y="274" width="672" height="706" key="search.everywhere.popup/0.40.1920.1040/-1280.54.1280.1024/1920.0.1920.1080@-1280.54.1280.1024" timestamp="1611359584863" />
+    <state x="-977" y="305" width="672" height="678" key="search.everywhere.popup/0.40.1920.1040/-1280.94.1280.984/1920.40.1920.1040@-1280.94.1280.984" timestamp="1611444178558" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/battleground/APlusB.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/yandex_contest/annagramma.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/yandex_contest/annagramma.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/best_pratice/sort/square_sort.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/best_pratice/algorithm/matreshka.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/best_pratice/algorithm/binary_search.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/best_pratice/algorithm/binary_search.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Yandex$main.coverage" NAME="main Coverage Results" MODIFIED="1611179871664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/algorithm$matreshka.coverage" NAME="matreshka Coverage Results" MODIFIED="1611433596147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/best_pratice/algorithm" />
+    <SUITE FILE_PATH="coverage/algorithm$list_comprehnsion.coverage" NAME="list_comprehnsion Coverage Results" MODIFIED="1611400508330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/archive" />
+    <SUITE FILE_PATH="coverage/Yandex$first.coverage" NAME="first Coverage Results" MODIFIED="1611164875515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Yandex$delete_dublicate.coverage" NAME="delete_dublicate Coverage Results" MODIFIED="1611276177150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yandex_contest" />
+    <SUITE FILE_PATH="coverage/Yandex$annagramma.coverage" NAME="annagramma Coverage Results" MODIFIED="1611278775600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yandex_contest" />
+    <SUITE FILE_PATH="coverage/algorithm$generate_permutations.coverage" NAME="generate_permutations Coverage Results" MODIFIED="1611445834933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/best_pratice/algorithm" />
+    <SUITE FILE_PATH="coverage/algorithm$sum_list.coverage" NAME="sum_list Coverage Results" MODIFIED="1611402688000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example/functional" />
+    <SUITE FILE_PATH="coverage/algorithm$generate_numbers.coverage" NAME="generate_numbers Coverage Results" MODIFIED="1611444443545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/best_pratice/algorithm" />
+    <SUITE FILE_PATH="coverage/algorithm$binary_search.coverage" NAME="binary_search Coverage Results" MODIFIED="1611516128364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/best_pratice/algorithm" />
+    <SUITE FILE_PATH="coverage/algorithm$pow.coverage" NAME="pow Coverage Results" MODIFIED="1611434882266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/best_pratice/algorithm" />
+    <SUITE FILE_PATH="coverage/algorithm$max_pairwise_product.coverage" NAME="max_pairwise_product Coverage Results" MODIFIED="1611345001888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/week1_programming_challenges/2_maximum_pairwise_product" />
+    <SUITE FILE_PATH="coverage/Yandex$lengt_vector.coverage" NAME="lengt_vector Coverage Results" MODIFIED="1611170206669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1611357788162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/week2_algorithmic_warmup/1_fibonacci_number" />
+    <SUITE FILE_PATH="coverage/Yandex$Game__1_.coverage" NAME="Game (1) Coverage Results" MODIFIED="1611273599582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yandex_contest" />
+    <SUITE FILE_PATH="coverage/algorithm$eratosfen.coverage" NAME="eratosfen Coverage Results" MODIFIED="1611501388414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/best_pratice/algorithm" />
+    <SUITE FILE_PATH="coverage/algorithm$count_sort.coverage" NAME="count_sort Coverage Results" MODIFIED="1611421984927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example/sort" />
+    <SUITE FILE_PATH="coverage/algorithm$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1611432636593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/Yandex$generator.coverage" NAME="generator Coverage Results" MODIFIED="1611176589777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/Yandex$interesting_trip.coverage" NAME="interesting_trip Coverage Results" MODIFIED="1611279345795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yandex_contest" />
+    <SUITE FILE_PATH="coverage/Yandex$yandex_contest.coverage" NAME="yandex_contest Coverage Results" MODIFIED="1611268484709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm$example__1_.coverage" NAME="example (1) Coverage Results" MODIFIED="1611402949655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example/list" />
+    <SUITE FILE_PATH="coverage/algorithm$fibonacci_last_digit.coverage" NAME="fibonacci_last_digit Coverage Results" MODIFIED="1611360139432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/week2_algorithmic_warmup/2_last_digit_of_fibonacci_number" />
+    <SUITE FILE_PATH="coverage/algorithm$square_sort.coverage" NAME="square_sort Coverage Results" MODIFIED="1611417910430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example/sort" />
+    <SUITE FILE_PATH="coverage/Yandex$gen__1_.coverage" NAME="gen (1) Coverage Results" MODIFIED="1611179432104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/algorithm$list_comprehnsion__1_.coverage" NAME="list_comprehnsion (1) Coverage Results" MODIFIED="1611401487137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example/functional" />
+    <SUITE FILE_PATH="coverage/algorithm$expiremence.coverage" NAME="expiremence Coverage Results" MODIFIED="1611504371488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/best_pratice" />
+    <SUITE FILE_PATH="coverage/Yandex$temp.coverage" NAME="temp Coverage Results" MODIFIED="1611173348043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Yandex$APlusB.coverage" NAME="APlusB Coverage Results" MODIFIED="1611157498215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
